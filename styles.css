@@ -17,6 +17,9 @@
     --float-distance: 10px;
     --bounce-speed: 3s;
     --heart-explosion-size: 0.1;
+
+    --primary-color: #b76e79;
+    --secondary-color: #9f5c66;
 }
 
 body {
@@ -88,13 +91,10 @@ body {
     position: fixed;
     bottom: 20px;
     right: 20px;
-    margin-top: 0;
-    opacity: 0.4;
+    opacity: 0.6;
     transition: opacity 0.3s;
-    transform: none;
-    z-index: 2;
-    animation: subtle-hint 2s infinite alternate;
-    animation-delay: 5s;
+    z-index: 999;
+    transform: none; /* REMOVE scaling */
 }
 
 .secret-answer .cute-btn {
