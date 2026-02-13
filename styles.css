@@ -91,7 +91,7 @@ body {
     margin-top: 0;
     opacity: 0.4;
     transition: opacity 0.3s;
-    transform: scale(0.7);
+    transform: none;
     z-index: 2;
     animation: subtle-hint 2s infinite alternate;
     animation-delay: 5s;
