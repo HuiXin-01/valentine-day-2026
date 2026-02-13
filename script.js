@@ -41,11 +41,11 @@ function validateConfig() {
 // Default color values
 function getDefaultColor(key) {
     const defaults = {
-        backgroundStart: "#ffafbd",
-        backgroundEnd: "#ffc3a0",
-        buttonBackground: "#ff6b6b",
-        buttonHover: "#ff8787",
-        textColor: "#ff4757"
+        backgroundStart: "#619B99",      
+        backgroundEnd: "#ABE7B2",       
+        buttonBackground: "#000000",     
+        buttonHover: "#ECF4E8",          
+        textColor: "#000000"
     };
     return defaults[key];
 }
