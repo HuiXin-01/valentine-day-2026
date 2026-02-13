@@ -97,6 +97,12 @@ body {
     z-index: 2;
 }
 
+.secret-answer .cute-btn {
+    font-size: 0.8rem;   /* small text */
+    padding: 5px 10px;   /* small button size */
+    border-radius: 15px; /* keeps it pill-shaped */
+}
+
 .secret-answer:hover {
     opacity: 1;
 }
