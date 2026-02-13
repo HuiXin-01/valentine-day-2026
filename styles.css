@@ -11,7 +11,7 @@
     --float-duration: 15s;
     --float-distance: 50px;
     --bounce-speed: 0.5s;
-    --heart-explosion-size: 1.5;
+    --heart-explosion-size: 0.5;
 }
 
 body {
@@ -91,7 +91,7 @@ body {
     bottom: 20px;
     right: 20px;
     margin-top: 0;
-    opacity: 0.2;
+    opacity: 0.4;
     transition: opacity 0.3s;
     transform: scale(0.7);
     z-index: 2;
@@ -233,7 +233,7 @@ body {
         transform: scale(1);
     }
     to {
-        transform: scale(1.2);
+        transform: scale(1.1);
     }
 }
 
