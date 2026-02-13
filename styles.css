@@ -35,6 +35,7 @@ body {
     max-width: 600px;
     margin: 20px;
     overflow: visible !important;
+    color: var(--button-hover);
 }
 
 .floating-elements {
