@@ -50,7 +50,7 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Hui Xin is so blesseddd to have a treasure by her side! 🎉💓",
-        message: "Naughty boi, come Ipoh to get your gift, a big warm hug and a huge kiss! See you soonnn🤍 Muaaa",
+        message: "Naughty boi🦧, come Ipoh to get your gift, a big warm hug and a huge kiss! See you soonnn🤍 Muaaa",
         emojis: "❤️🎁💐💋💖💕" 
     },
 
