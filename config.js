@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Chat_baobuiii",
+    valentineName: "Chat baobuiii",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -49,9 +49,9 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm so blessed to have a treasure by my side! 🎉💖💓",
-        message: "Come Ipoh get your gift, a big warm hug and a huge kiss! See you soonnn🤍",
-        emojis: "🎁💐💋❤️💕"  // These will bounce around
+        title: "Yay! I'm so blessed to have a treasure by my side! 🎉💓",
+        message: "Come Ipoh to get your gift, a big warm hug and a huge kiss! See you soonnn🤍 Muaaa",
+        emojis: "❤️🎁💐💋❤️💕" 
     },
 
     // Color scheme for the website
