@@ -14,7 +14,7 @@ const CONFIG = {
     // Floating emojis that appear in the background
     // Find more emojis at: https://emojipedia.org
     floatingEmojis: {
-        hearts: ['❤️', '💖', '💗', '💓'],  // Heart emojis
+        hearts: ['❤️', '💖', '💗', '💓', '🤟🏻'],  // Heart emojis
         bear: ['🐵', '🤟🏻', '🦧']                       // Cute emojis
     },
 
@@ -30,7 +30,7 @@ const CONFIG = {
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Click me hehe💌❤️"                                   // Text for the next button
+            nextBtn: "Click me hehe💌"                                   // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
@@ -49,8 +49,8 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Hui Xin is so blesseddd to have a treasure by her side! 🎉💓",
-        message: "Naughty boi🦧, come Ipoh to get your gift, big warm huggiees and huge kissesss! See you soonnn🤍 Muaaa",
+        title: "Hui Xin is so blesseddd to have a treasure by her side! 🎠💓",
+        message: "Naughty boi🦧, come Ipoh to get your gift, big warm huggiees and huge kissesss! \nSee you soonnn💃 I love youuu🤍 Muaaa",
         emojis: "❤️🎁💐💋💖💕" 
     },
 
