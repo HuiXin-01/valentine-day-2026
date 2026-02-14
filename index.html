@@ -77,4 +77,22 @@
     <script src="theme.js"></script>
     <script src="script.js"></script>
 </body>
-</html> 
+</html>
+
+<script>
+document.addEventListener("DOMContentLoaded", () => {
+    const audio = document.getElementById("bgMusic");
+    const button = document.getElementById("musicToggle");
+
+    button.addEventListener("click", () => {
+        if (audio.paused) {
+            audio.play();
+            button.textContent = "🔇 Stop Music";
+        } else {
+            audio.pause();
+            button.textContent = "🎵 Play Music";
+        }
+    });
+});
+</script>
+
