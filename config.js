@@ -5,7 +5,7 @@
 const CONFIG = {
     // Your Valentine's name that will appear in the title
     // Example: "Jade", "Sarah", "Mike"
-    valentineName: "Chat baobuiii",
+    valentineName: "Chat baobuiii sukk lohhh",
 
     // The title that appears in the browser tab
     // You can use emojis! 💝 💖 💗 💓 💞 💕
@@ -30,12 +30,12 @@ const CONFIG = {
         second: {
             text: "How much do you love me?",                          // For the love meter
             startText: "This much!",                                   // Text before the percentage
-            nextBtn: "Lesgoo hehe❤️"                                   // Text for the next button
+            nextBtn: "Click me hehe💌❤️"                                   // Text for the next button
         },
         third: {
             text: "Will you be my Valentine on February 14th, 2026? 🌹", // The big question!
-            yesBtn: "Of course!",                                             // Text for "Yes" button
-            noBtn: "Dun wan"                                                 // Text for "No" button
+            yesBtn: "Of courseee!",                                      // Text for "Yes" button
+            noBtn: "Dun wan"                                             // Text for "No" button
         }
     },
 
@@ -50,8 +50,8 @@ const CONFIG = {
     // Messages that appear after they say "Yes!"
     celebration: {
         title: "Hui Xin is so blesseddd to have a treasure by her side! 🎉💓",
-        message: "Come Ipoh to get your gift, a big warm hug and a huge kiss! See you soonnn🤍 Muaaa",
-        emojis: "❤️🎁💐💋❤️💕" 
+        message: "Naughty boi, come Ipoh to get your gift, a big warm hug and a huge kiss! See you soonnn🤍 Muaaa",
+        emojis: "❤️🎁💐💋💖💕" 
     },
 
     // Color scheme for the website
