@@ -20,6 +20,7 @@ function validateConfig() {
         }
     });
 
+
     // Validate animation values
     if (parseFloat(config.animations.floatDuration) < 5) {
         warnings.push("Float duration too short! Setting to 5s minimum.");
@@ -239,4 +240,5 @@ function setupMusicPlayer() {
             musicToggle.textContent = config.music.startText;
         }
     });
+    setupMusicPlayer();
 } 
