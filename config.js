@@ -49,7 +49,7 @@ const CONFIG = {
 
     // Messages that appear after they say "Yes!"
     celebration: {
-        title: "Yay! I'm so blessed to have a treasure by my side! 🎉💓",
+        title: "Hui Xin is so blesseddd to have a treasure by her side! 🎉💓",
         message: "Come Ipoh to get your gift, a big warm hug and a huge kiss! See you soonnn🤍 Muaaa",
         emojis: "❤️🎁💐💋❤️💕" 
     },
